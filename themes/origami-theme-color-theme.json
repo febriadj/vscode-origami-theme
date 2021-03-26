@@ -554,7 +554,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
@@ -681,7 +681,7 @@
 			"name": "Method Keys",
 			"scope": ["meta.object.member"],
 			"settings": {
-				"foreground": "#ffe9f6"
+				"foreground": "#e0ebff"
 			}
 		},
 		{
@@ -719,7 +719,14 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
+			}
+		},
+		{
+			"name": "CSS Id",
+			"scope": ["entity.other.attribute-name.id"],
+			"settings": {
+				"foreground": "#ff85aa",
 			}
 		},
 		{
@@ -813,7 +820,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
@@ -831,7 +838,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
@@ -849,7 +856,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
@@ -867,7 +874,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
@@ -988,7 +995,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#91ffac"
+				"foreground": "#aeffc2"
 			}
 		},
 		{
