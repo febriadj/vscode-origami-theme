@@ -4,7 +4,7 @@
     "description": "A simple theme with bright and elegant colors, making your coding activities even more comfortable",
     "publisher": "febriadji",
     "icon": "images/origami-theme-icon.png",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/febriadj/origami-theme.git"
