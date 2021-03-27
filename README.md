@@ -1,6 +1,6 @@
 <div align="center">
 
-![editor](https://febriadj.herokuapp.com/images/origami-theme-icon)
+![editor](images/origami-theme-icon-200px.png)
 </div>
 <div align="center">
 
@@ -9,7 +9,7 @@ A simple theme with bright and elegant colors, making your coding activities eve
 </div>
 <br><br>
 
-![editor](https://febriadj.herokuapp.com/images/origami-theme)
+![editor](images/origami-theme.png)
 
 <br>
 <div align="center">
