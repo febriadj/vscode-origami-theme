@@ -2,17 +2,17 @@
     "name": "origami-theme",
     "displayName": "Origami Theme",
     "description": "A simple theme with bright and elegant colors, making your coding activities even more comfortable",
-    "publisher": "febriadji",
+    "publisher": "febriadj",
     "icon": "images/origami-theme-icon.png",
     "version": "0.0.4",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/febriadj/origami-theme.git"
+        "url": "git+https://github.com/febriadj/vscode-origami-theme.git"
     },
     "bugs": {
-        "url": "https://github.com/febriadj/origami-theme/issues"
+        "url": "https://github.com/febriadj/vscode-origami-theme/issues"
     },
-    "homepage": "https://github.com/febriadj/origami-theme#readme",
+    "homepage": "https://github.com/febriadj/vscode-origami-theme#readme",
     "engines": {
         "vscode": "^1.46.0"
     },
